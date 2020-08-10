@@ -1,3 +1,4 @@
+### Hello! My name is Alexey, i am an Middle C# software-engineere/resercher/game-developer!
 ### Connect with me:
 [<img align="left" alt="Vk" width="22px" src="https://energobelarus.by/upload/medialibrary/b0c/vk_com_logo_svg_768x768.png" />][vk]
 
